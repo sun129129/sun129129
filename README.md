@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=skyblue&height=300&section=header&text=HELLO%20TAEYANG&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=HELLO%20TAEYANG&fontSize=90)
 <!--
 **sun129129/sun129129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
